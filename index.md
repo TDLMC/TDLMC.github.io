@@ -5,7 +5,7 @@ layout: default
 
 [Link to another page](another-page).
 
-[Link to google](_layouts/default.html)
+[Link to google](_layouts/default)
 
 
 # [](#Introduction)Project Introduction
