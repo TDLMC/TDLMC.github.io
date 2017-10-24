@@ -5,19 +5,20 @@ layout: default
 
 [Link to another page](another-page).
 
-[Link to google](www.google.com)
+[Link to google](https://www.google.com)
 
 
 # [](#Introduction)Project Introduction
 
 Time Delay Lens Modeling Challenge is aiming at providing the mock lens data for the modeling team to test the there testing code.
 
-# [](#Data sets)Project Introduction
+# [](#Data-sets)Data Sets
 _Enjoy the data fun_
 
 ## [](#Rung-0)Rung-0
 
 > The Rung0 is to provide the data including the information. In order that the modeling team understand the data format and ensure that we don't make mistake.
+
 [Link to the fits file](imoutpt_7.fits)
 
 ### [](#header-3)Header 3
