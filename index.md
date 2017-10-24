@@ -6,7 +6,7 @@ Text can be **bold_LOL**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](another-page).
 
-[Link to the license file](LICENSE)
+[Link to the fits file](imoutpt_7.fits)
 
 There should be whitespace between paragraphs.
 
