@@ -5,7 +5,6 @@ layout: default
 
 [Link to another page](another-page).
 
-<link rel="google" href="https://www.google.com">
 
 # [](#Introduction)Project Introduction
 
