@@ -2,10 +2,9 @@
 layout: default
 ---
 
+[test_another-page](another-page).
 
-[Link to another page](another-page).
-
-[Google!!!](https://www.google.com)
+[test_another-link](https://www.google.com)
 
 
 # [](#Introduction)Project Introduction
