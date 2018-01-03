@@ -11,7 +11,7 @@ Simulated lens data are generated assuming a flat ΛCDM cosmological model with 
 * External Convergence
   >The *kext* are generated using a random Gaussian distribution with *0* and *0.025* as mean value and standard deviation, respectively. This, from the point of view of modeling, one can adopt a prior on kext of *0±0.025*.
   
-The non_drizzled images are put in the first layer of the lens sample folder. Drizzled image are put in the folder named "drizzled_image". The other information of the lens could be found in the text file named "lens_info_for_Good_team.txt". 
+The non_drizzled images are put in the first layer of the lens sample folder. Drizzled images are put in the folder named "drizzled_image". The other information of the lens could be found in the text file named "lens_info_for_Good_team.txt". 
 
 _Enjoy the data:_
 
