@@ -38,3 +38,6 @@ _Enjoy the data fun_
 
 [Link to the fits file](data/test_data.png)
 
+[Read the Paper](https://www.google.com)
+
+[How to Submit](submit.example)
