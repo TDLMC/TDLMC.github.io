@@ -4,7 +4,7 @@
 
 Simulated lens data generated with two independent codes are given in the following link, including:
 1. _HST_ image
-  >Eight non-drizzled images and the drizzled image are provided for one system together with the noise map and PSF. Note that [drizzling](http://www. stsci.edu/hst/wfpc2/analysis/drizzle.html) introduces correlated noise. This means one needs to boost the noise level to be effectively infinite at central pixels of each AGN image while modeling drizzled image.
+  >Eight non-drizzled images and the drizzled image are provided for one system together with the noise map and PSF. Note that [drizzling](http://www.stsci.edu/hst/wfpc2/analysis/drizzle.html) introduces correlated noise. This means one needs to boost the noise level to be effectively infinite at central pixels of each AGN image while modeling drizzled image.
 1. Time Delay
 1. Lens Velocity Dispersion
   >An integrated line-of-sight velocity dispersion is provided assuming a square aperture with 1 arcsec on a side and a seeing condition with a full width at half maximum of 0.6 arcsec.
