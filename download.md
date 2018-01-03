@@ -1,7 +1,7 @@
 
 ## Lens Data
 
-Simulated lens data are generated with Hubble Constant randomly from uniform distribution between *50*  to *90 km/s/Mpc*, assuming a flat ΛCDM cosmological model with *Ωm = 0.27*, including:
+Simulated lens data are generated assuming a flat ΛCDM cosmological model with *Ωm = 0.27*, including:
 
 * _HST_ image
   >Eight non-drizzled images with the drizzled image are provided for one lens system, together with the noise map and PSF. Note that [_drizzling_](http://www.stsci.edu/hst/wfpc2/analysis/drizzle.html) introduces correlated noise. This means one needs to boost the noise level to be effectively infinite at central pixels of each AGN image while modeling drizzled image.
