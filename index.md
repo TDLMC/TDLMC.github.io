@@ -15,22 +15,19 @@ _Enjoy the data fun_
 > Rung0 is a training exercise which consists of two lens systems, one two-image (_double_) and one four-image (_quad_) configuration.
 
 >The goal of this rung is to ensure that “Good” Team members understand the format of the data and that no bugs or mistakes could potentially affect the results of the challenge for a specific method.
-[Link to the fits file](data/test_data.png)
 
 ## [](#Rung-1)Rung-1
 
 > Rung1 is meant to be the easiest one of the actual challenging ladder. The mocks in Rung1 are generated in a similar way as in Rung0, except that we use the images of real galaxies to get realistic surface brightness distribution for the lensed AGN host and the time delays are affected by external convergence.
-[Link to the fits file](data/test_data.png)
 
 ## [](#Rung-2)Rung-2
 
 > Rung2 is meant to test PSF reconstruction features of lensing codes, in addition to the aspects tested in Rung1. For this purpose, we only provide a guess of the PSF but not the one actually used to generate the data.
-[Link to the fits file](data/test_data.png)
 
 ## [](#Rung-?)Rung-3
 
 > Rung3 is the highest level in this challenge, and thus the simulations are intended to be the most realistic. In addition to all the complexity we have adopted for Rung1 and Rung2, the observables are generated using massive early-type galaxies selected from numerical cosmological simulations.
 
-[Link to the fits file](data/test_data.png)
+[Download data](download.md)
 
 [Read the Paper](https://www.google.com) |  [How to Submit](submit.example)
