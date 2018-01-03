@@ -14,13 +14,15 @@ _Enjoy the data fun_
 
 ## [](#Rung-0)Rung-0
 
-> Rung0 is a training exercise which consists of two lensed systems, one two-image (double) and one four-image (quad)configuration. The goal of this rung is to ensure that “Good” Team members understand the format of the data and that no bug/mistake could potentially false the results of the challenge for a specific method.
+> Rung0 is a training exercise which consists of two lens systems, one two-image (_double_) and one four-image (_quad_) configuration.
+
+The goal of this rung is to ensure that “Good” Team members understand the format of the data and that no bugs or mistakes could potentially affect the results of the challenge for a specific method.
 
 [Link to the fits file](data/test_data.png)
 
 ## [](#Rung-1)Rung-1
 
-> This rung is meant to be the easiest one of the ladder. Thus, the mocks in Rung1 are generated in a similar way as in Rung0, except that we use a more realistic surface brightness distribution for the lensed AGN host and the time delays are affected by external convergence.
+> Rung1 is meant to be the easiest one of the actual challenging ladder. The mocks in Rung1 are generated in a similar way as in Rung0, except that we use the images of real galaxies to get realistic surface brightness distribution for the lensed AGN host and the time delays are affected by external convergence.
 
 [Link to the fits file](data/test_data.png)
 
@@ -30,10 +32,9 @@ _Enjoy the data fun_
 
 [Link to the fits file](data/test_data.png)
 
-## [](#Rung-3)Rung-3
+## [](#Rung-?)Rung-3
 
 > Rung3 is the highest level in this challenge, and thus the simulations are intended to be the most realistic. In addition to all the complexity we have adopted for Rung1 and Rung2, the observables are generated using massive early-type galaxies selected from numerical cosmological simulations.
-
 
 [Link to the fits file](data/test_data.png)
 
