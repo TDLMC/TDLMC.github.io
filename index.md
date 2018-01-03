@@ -1,6 +1,6 @@
 [Read the Paper](https://www.google.com)
 
-[How to Submit](how2submit.md)
+[How to Submit](submit.example)
 
 # [](#Introduction)Welcome to the Time Delay Lens Modeling Challenge!
 Strong gravitational lens with measured time delay is becoming an increasingly powerful tool to measure cosmological parameters, especially the _Hubble constant_ (_H0_). Recent studies show that by combining just three multiply-imaged AGN systems, one can determine _H0_  to _3.8%_  precision. Furthermore, the number of time-delay lens systems is growing rapidly, enabling, in principle, the determination of _H0_  to _1%_  precision in the near future. However, as the precision increases it is important to ensure that systematic errors and biases remain subdominant. For this purpose, challenges with simulated datasets are a key component in this process. Following the experience of the [past challenge on time delay](http://timedelaychallenge.org), where it was shown that time delays can indeed be measured precisely and accurately at the sub-percent level, we now present the “Time Delay Lens Modeling Challenge” (TDLMC).
