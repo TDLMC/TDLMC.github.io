@@ -1,4 +1,4 @@
-[Read the Paper](https://www.google.com) | :book: [How to Submit](submit.example) :raising_hand:
+[Read the Paper](https://www.google.com) :book: | [How to Submit](submit.example) :raising_hand:
 
 # [](#Introduction)Welcome to the Time Delay Lens Modeling Challenge!
 Strong gravitational lens with measured time delay is becoming an increasingly powerful tool to measure cosmological parameters, especially the _Hubble constant_ (_H0_). Recent studies show that by combining just three multiply-imaged AGN systems, one can determine _H0_  to _3.8%_  precision. Furthermore, the number of time-delay lens systems is growing rapidly, enabling, in principle, the determination of _H0_  to _1%_  precision in the near future. However, as the precision increases it is important to ensure that systematic errors and biases remain subdominant. For this purpose, challenges with simulated datasets are a key component in this process. Following the experience of the [past challenge on time delay](http://timedelaychallenge.org), where it was shown that time delays can indeed be measured precisely and accurately at the sub-percent level, we now present the “Time Delay Lens Modeling Challenge” (TDLMC).
@@ -15,19 +15,16 @@ _Enjoy the data fun_
 > Rung0 is a training exercise which consists of two lens systems, one two-image (_double_) and one four-image (_quad_) configuration.
 
 >The goal of this rung is to ensure that “Good” Team members understand the format of the data and that no bugs or mistakes could potentially affect the results of the challenge for a specific method.
-
 [Link to the fits file](data/test_data.png)
 
 ## [](#Rung-1)Rung-1
 
 > Rung1 is meant to be the easiest one of the actual challenging ladder. The mocks in Rung1 are generated in a similar way as in Rung0, except that we use the images of real galaxies to get realistic surface brightness distribution for the lensed AGN host and the time delays are affected by external convergence.
-
 [Link to the fits file](data/test_data.png)
 
 ## [](#Rung-2)Rung-2
 
 > Rung2 is meant to test PSF reconstruction features of lensing codes, in addition to the aspects tested in Rung1. For this purpose, we only provide a guess of the PSF but not the one actually used to generate the data.
-
 [Link to the fits file](data/test_data.png)
 
 ## [](#Rung-?)Rung-3
