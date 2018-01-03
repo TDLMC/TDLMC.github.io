@@ -1,11 +1,9 @@
 ---
 layout: default
 ---
+[Read the Paper](https://www.google.com)
 
-[test_another-page](another-page).
-
-[test_another-link](https://www.google.com)
-
+[How to Submit](another-page).
 
 # [](#Introduction)Project Introduction
 
