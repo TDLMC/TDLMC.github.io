@@ -16,7 +16,7 @@ _Enjoy the data fun_
 
 > Rung0 is a training exercise which consists of two lens systems, one two-image (_double_) and one four-image (_quad_) configuration.
 
-The goal of this rung is to ensure that “Good” Team members understand the format of the data and that no bugs or mistakes could potentially affect the results of the challenge for a specific method.
+>The goal of this rung is to ensure that “Good” Team members understand the format of the data and that no bugs or mistakes could potentially affect the results of the challenge for a specific method.
 
 [Link to the fits file](data/test_data.png)
 
