@@ -1,28 +1,32 @@
-# We recommend you follow the format "teamname_algorithmZ.h0"
-# and submit one file of the challenge. You can submit multiple
-# entries, so should include version numbers in your algorithm names as you
-# like. 
-# 
-# Please include in this header the names of all your team members, and their
-# institutional affiliations. That way we can make sure everyone is in the loop
+# Submissions must follow the format and naming convention. Each team can
+# submit multiple entries if they have different algorithms or different estimators
+# (e.g. maximum likelihood vs median posterior). Please make sure the
+# name of the file is unique. The name of the file must be: "teamname_algorithmZ.h0"
+#
+# Please include in the header of the file the names of all the team members,
+# and their institutional affiliations and emails.
+# That way we can make sure everyone is in the loop
 # when we send feedback and make announcements.
 # 
-# You should submit your actual results in a table like the one below,
+# You should submit your actual results in a text file like the one below,
 # following these guidelines:
-#   * H0 and its 68% uncertainty should be given in km/s/Mpc.
-#   * Uncertainties will be interpreted as Gaussian: do your best.
+#   * Point estimate of H0 and its 68% uncertainty should be given in km/s/Mpc.
+#   * Uncertainties will be interpreted as Gaussian: do your best to approximate it.
 #   * If you tried to infer the H0 for one sample but could not (ie because
 #      you consider your errors to be too large, or not well enough 
-#      characterised), please give both the dt and the dterr as -99 so we can
+#      characterized), please give both the dt and the dterr as -99 so we can
 #      register it as a rejection. It's very important that you report an 
 #      estimate or a -99 flag for every sample you analyze, not just the
 #      ones where you were successful.
-#   * Some of the metrics we use depend on the number of samples estimated - 
-#       please do as many as you can! You should only submit H0 and H0err
-#       values for the files you analyze, removing the ones you did not 
-#       attempt. (This is why the -99 values for failed attempts are
-#       important.)
-#
+#   * Some of the metrics depend on the number of systems analyzed.
+#      It is up to each team to decide how many systems to analyze.
+#      However, you should only submit H0 and H0err
+#      values for the systems you analyze, removing the ones you did not 
+#      attempt. (This is why the -99 values for failed attempts are
+#      important.)
+#   * rung?_overall is the best estimate of H0 for each rung.
+#     You are allowed to use any algorithm to evaluate it,
+#     including rejection of outliers, etc.
 # Please email your submission to the TDC Evil Team at:
 #   tdlmc-evil-team@googlegroups.com
 
