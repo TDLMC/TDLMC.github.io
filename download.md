@@ -20,6 +20,10 @@ _Enjoy the data:_
 
 [**Download Rung1**](data/rung1.tar.gz)
 
+   >The data for Rung0 and Rung1 are provided with the true PSF. Thus, the oversampled PSF which used for simulation are attached; the pixel size is *0.13/4=0.0325 arcsec*:
+   [**Oversampled PSF for Rung0&1**](data/oversampled_PSF.fits)
+
+
 [**Download Rung2**](data/rung2.tar.gz)
 
 [**Download Rung3**](data/rung3.tar.gz)
