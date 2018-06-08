@@ -5,7 +5,8 @@ Strong gravitational lenses with measured time delay are a powerful tool to meas
 
 We aim to assess the present capabilities of lens modeling codes and assumptions and test the level of accuracy of inferred cosmological parameters given realistic mock datasets. We invite scientists to model a set of simulated _Hubble Space Telescope_ (_HST_) observations of _50_  mock lens systems. The systems are organized in rungs, with the complexity and realism increasing going up the ladder. The goal of the challenge is to infer _H0_  for each rung, given the _HST_  images, the time delay, and a stellar velocity dispersion of the deflector, for a fixed background cosmology.
 
-The TDLMC challenge will start with the mock data release on __2018 January 8th__, with a deadline for blind submission of __2018 August 8th__. 
+The TDLMC challenge will start with the mock data release on __2018 January 8th__.
+The deadline for blind submission is different for each rung. The deadline for Rung0-1 is __2018 September 8__; the deadline for Rung2 is __2019 January 8__ and the one for Rung3 is __2019 May 8__.
 
 # [](#Data-sets)Challenge Rungs
 
