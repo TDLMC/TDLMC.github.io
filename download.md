@@ -16,7 +16,7 @@ The non_drizzled images are put in the first layer of the lens sample folder. Dr
 
 _Enjoy the data:_
 
-[**Download Rung0**](data/rung0.tar.gz) [*True parameter for Rung0*](data/rung0_open_box.tar.gz)
+[*Download Rung0*](data/rung0.tar.gz) [*True parameter for Rung0*](data/rung0_open_box.tar.gz)
 
 [*Download Rung1*](data/rung1.tar.gz) [**Rung1 open box**](data/rung1_open_box.zip)
 
