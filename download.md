@@ -22,7 +22,7 @@ _Enjoy the data:_
 
    >The oversampled PSF as used in the simulation are provided; the pixel size is *0.13/4=0.0325 arcsec*:
    >
-   >  [**Download oversampled PSF for Rung0-1**](data/oversampled_PSF.fits)
+   >  [*Download oversampled PSF for Rung0-1*](data/oversampled_PSF.fits)
 
 
 [**Download Rung2**](data/rung2.tar.gz)
