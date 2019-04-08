@@ -25,7 +25,7 @@ _Enjoy the data:_
    >  [*Download oversampled PSF for Rung0-1*](data/oversampled_PSF.fits)
 
 
-[**Download Rung2**](data/rung2.tar.gz)
+[*Download Rung2*](data/rung2.tar.gz)    [**Rung2 open box**](data/rung2_open_box.zip)
 
 [**Download Rung3**](data/rung3.tar.gz)
 
