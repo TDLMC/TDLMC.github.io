@@ -27,6 +27,6 @@ _Enjoy the data:_
 
 [*Download Rung2*](data/rung2.tar.gz)    [**Rung2 open box**](data/rung2_open_box.zip)
 
-[**Download Rung3**](data/rung3.tar.gz)
+[*Download Rung3*](data/rung3.tar.gz)    [**Rung3 open box**](data/rung3_open_box.zip)
 
 [back](./)
